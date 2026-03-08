@@ -1,0 +1,7 @@
+org\hustlehard\sethome\storage\StorageInterface.class
+org\hustlehard\sethome\storage\HashMapStorage.class
+org\hustlehard\sethome\SetHomePlugin.class
+org\hustlehard\sethome\command\HomeCommand.class
+org\hustlehard\sethome\command\HomesCommand.class
+org\hustlehard\sethome\command\SetHomeCommand.class
+org\hustlehard\sethome\exception\HomeNotFoundException.class
